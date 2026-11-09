@@ -1,25 +1,33 @@
-<div align="center">
+# Christ Yvan — Open-Source AI Compiler & Scientific Systems Engineer
 
-# Christ Yvan (@Christ-yavn)
-### **Open-Source Autonomous Multi-Agent Quantitative Research (quant-pod), Formal DSL Compilers & Zero-Lookahead Execution**
+[![Anthropic Claude Code Ecosystem](https://img.shields.io/badge/Anthropic-Claude%20Code%20Ecosystem-D97757)](https://github.com/Christ-yavn)
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
+[![CI Status: Passing](https://img.shields.io/badge/GitHub%20Actions%20CI-100%25%20Passing-brightgreen)](https://github.com/Christ-yavn/ITC-SMC-EXTRACTOR-/actions)
 
-[![quant-pod CI](https://github.com/Christ-yavn/quant-pod/actions/workflows/ci.yml/badge.svg)](https://github.com/Christ-yavn/quant-pod/actions)
-[![bot-quant CI](https://github.com/Christ-yavn/bot-quant-/actions/workflows/ci.yml/badge.svg)](https://github.com/Christ-yavn/bot-quant-/actions)
-[![ITC-SMC-EXTRACTOR CI](https://github.com/Christ-yavn/ITC-SMC-EXTRACTOR-/actions/workflows/ci.yml/badge.svg)](https://github.com/Christ-yavn/ITC-SMC-EXTRACTOR-/actions)
-[![License: MIT](https://img.shields.io/badge/License-MIT-brightgreen.svg)](https://opensource.org/licenses/MIT)
-[![Claude Code Standard](https://img.shields.io/badge/Claude_Code-SKILL.md_%26_AGENT.md-7C3AED)](https://github.com/Christ-yavn/quant-pod)
-
-</div>
+I build **deterministic, open-source developer compilers and multi-agent scientific skills for Anthropic's Claude & Claude Code ecosystem** — bridging unstructured multimodal video curricula and rigorous, reproducible code & research.
 
 ---
 
-## 🔬 Three-Repository Open-Source Quantitative & AI Engineering Suite
+## Flagship Open-Source Suite for the Claude Ecosystem
 
-I design and maintain open-source tooling focused on **cryptographic anti-p-hacking research integrity (HashChainLedger)**, **econometric multiple-testing (Hansen SPA, Romano-Wolf StepM, MCS, DSR)**, **CSPRNG & DeFi microstructure forensics (NIST SP 800-22/90B, Uniswap v3 LVR)**, and **formal zero-lookahead state-machine compilation** powered by **Claude Code (SKILL.md & AGENT.md)**.
+### 1. [`Christ-yavn/ITC-SMC-EXTRACTOR-`](https://github.com/Christ-yavn/ITC-SMC-EXTRACTOR-) — **OmniScribe v4.0: Universal Video-to-Course, Formal Specification & AI Dataset Compiler**
+- **What it does for developers, educators & researchers**: Transforms **any YouTube channel, university lecture playlist, or technical video curriculum** (`UNIVERSAL_COURSE_COMPILER`, `SOFTWARE_AND_ALGORITHMS`, `STEM_AND_QUANT_SCIENCE`, `MARKET_MICROSTRUCTURE_ICT`) into:
+  1. **8-Section University-Grade Course Handbooks** anchored to exact `[MM:SS]` video timestamps,
+  2. **Chronologically Consolidated Master Bibles (`MASTER_<CONCEPT>.md`)** across multi-video playlists,
+  3. **Deterministic Dual-FSM Formal Specifications** (`[P-xx]`, `[D-xx]`, `[R-xx]`, `[REJ-xx]`, + 3 JSON test fixtures) verified by a 10-criteria linter (`lintFicheV3`),
+  4. **Multi-Turn SFT / RAG Fine-Tuning Datasets (`.jsonl`)**,
+  5. **Production Python, TypeScript, and Course Modules** compiled directly via our native **Claude Code Bridge (`scripts/claude_agent_bridge.py`)**.
+- **Empirical Benchmark Test #1 Included**: Ships with a real-world 106-video benchmark dataset (4 deduplicated playlists with automatic 35-minute temporal slicing) and 38/38 passing unit tests in GitHub Actions CI.
 
-| Repository | Release & License | CI Status | Core Technical Scope |
-| :--- | :---: | :---: | :--- |
-| **[quant-pod](https://github.com/Christ-yavn/quant-pod)** | 3.0.0 (MIT) | [![CI](https://github.com/Christ-yavn/quant-pod/actions/workflows/ci.yml/badge.svg)](https://github.com/Christ-yavn/quant-pod/actions) | **Universal Multi-Agent Quantitative Research Desk (SKILL.md) & 10 Self-Tested Scientific Python Engines (
-umpy/scipy only)**: SHA-256 HashChainLedger, Politis-White-Patton hansen_spa / omano_wolf_stepm / model_confidence_set, spectral {\text{eff}}$ deflated_sharpe_effective, *AlphaAgent* (KDD'25) AST regularization, *RD-Agent(Q)* UCB Bandit, *freqtrade* lookahead_truncation_test, NIST SP 800-22/90B CSPRNG forensics, 624-word MT19937 algebraic recovery, Uniswap v3 LVR & Perp Carry liquidation hazard. |
-| **[ot-quant-](https://github.com/Christ-yavn/bot-quant-)** | 3.31.0 (MIT) | [![CI](https://github.com/Christ-yavn/bot-quant-/actions/workflows/ci.yml/badge.svg)](https://github.com/Christ-yavn/bot-quant-/actions) | **Empirical Synthetic-Market Laboratory & Hardened Execution Engine**: Demonstrates quant-pod in live action—refuting a 3,412-trade HFT spike strategy on 1.68M ticks via Doob's Optional Stopping Theorem ($\rho = +0.00993$), catching an overfitted ONNX model (OOS ROC-AUC = 0.4457), and running the hardened causal 3.31 Pure S1 engine (shift=1, +.15 USD net on V25 live). |
-| **[ITC-SMC-EXTRACTOR-](https://github.com/Christ-yavn/ITC-SMC-EXTRACTOR-)** | 3.4.0 (MIT) | [![CI](https://github.com/Christ-yavn/ITC-SMC-EXTRACTOR-/actions/workflows/ci.yml/badge.svg)](https://github.com/Christ-yavn/ITC-SMC-EXTRACTOR-/actions) | **Formal DSL Compiler (SCRIBE-ICT v3/v4), Deterministic Dual-FSM Linter (ZONE_FSM × TRADE_FSM), & Native Claude Code Bridge (claude_agent_bridge.py)** compiling structural price-delivery primitives (FVG, BPR, Order Blocks, Liquidity Sweeps) into zero-lookahead Python 3.11+ & Pine Script v5/v6 engines with automated OHLC JSON test fixtures (33/33 unit tests). |
+### 2. [`Christ-yavn/quant-pod`](https://github.com/Christ-yavn/quant-pod) — **Quant Pod v3.0: Multi-Agent Scientific Research Skill (`SKILL.md`) & 10 Pure-Python Verification Engines**
+- **What it does for daily Claude Code users**: A plug-and-play multi-agent scientific research skill (`quant-pod/SKILL.md`, `agent-quant-pod/SKILL.md`) and 10 zero-Lookahead Python verification engines designed to stop LLM statistical hallucination and backtest overfitting:
+  - **Cryptographic Research Ledger (`research_integrity.py`)**: Append-only SHA-256 Merkle hash chain + pre-registration before any out-of-sample holdout test.
+  - **NIST SP 800-22 & 800-90B Forensics (`prng_forensics.py`)**: Monobit, block frequency, runs, spectral FFT, Maurer universal, and min-entropy $H_\infty$ diagnostics.
+  - **Causal Discovery & Blind Adversarial Auditing (`quant_discovery_engine.py`, `quant_validation_engine.py`)**: UCB1 Bandit + AST complexity regularization (`AlphaAgent` KDD'25) + Deflated Sharpe Ratio ($N_{\text{eff}}$), Hansen SPA, Romano-Wolf StepM, and Probability of Backtest Overfitting (PBO).
+
+---
+
+## Technical Stack & Engineering Standards
+- **Languages**: TypeScript (Node 22 ESM, React 19, Vite 8), Python 3.11/3.12 (Scientific Computing, NumPy/SciPy, AST Compilers)
+- **Verification**: Deterministic AST/Regex Linters, Synthetic JSON Fixtures, SHA-256 Merkle Audit Trails, GitHub Actions CI
+- **Design**: 2026 Dark OLED / Alabaster OKLCH Design Tokens, 3D Spatial Perspective UI, WCAG 2.2 AA Accessibility
