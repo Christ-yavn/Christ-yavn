@@ -2,7 +2,7 @@
 
 [![Anthropic Claude Code Ecosystem](https://img.shields.io/badge/Anthropic-Claude%20Code%20Ecosystem-D97757)](https://github.com/Christ-yavn)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
-[![CI Status: Passing](https://img.shields.io/badge/GitHub%20Actions%20CI-100%25%20Passing-brightgreen)](https://github.com/Christ-yavn/ITC-SMC-EXTRACTOR-/actions)
+[![CI Status: Passing](https://img.shields.io/badge/GitHub%20Actions%20CI-100%25%20Passing-brightgreen)](https://github.com/Christ-yavn/youtube-video-extractor/actions)
 
 I build **deterministic, open-source developer compilers and multi-agent scientific skills for Anthropic's Claude & Claude Code ecosystem** — bridging unstructured multimodal video curricula and rigorous, reproducible code & research.
 
@@ -10,7 +10,7 @@ I build **deterministic, open-source developer compilers and multi-agent scienti
 
 ## Flagship Open-Source Suite for the Claude Ecosystem
 
-### 1. [`Christ-yavn/ITC-SMC-EXTRACTOR-`](https://github.com/Christ-yavn/ITC-SMC-EXTRACTOR-) — **OmniScribe v4.0: Universal Video-to-Course, Formal Specification & AI Dataset Compiler**
+### 1. [`Christ-yavn/youtube-video-extractor`](https://github.com/Christ-yavn/youtube-video-extractor) — **YouTube Video Extractor v4.0: Universal Video-to-Course, Formal Specification & AI Dataset Compiler**
 - **What it does for developers, educators & researchers**: Transforms **any YouTube channel, university lecture playlist, or technical video curriculum** (`UNIVERSAL_COURSE_COMPILER`, `SOFTWARE_AND_ALGORITHMS`, `STEM_AND_QUANT_SCIENCE`, `MARKET_MICROSTRUCTURE_ICT`) into:
   1. **8-Section University-Grade Course Handbooks** anchored to exact `[MM:SS]` video timestamps,
   2. **Chronologically Consolidated Master Bibles (`MASTER_<CONCEPT>.md`)** across multi-video playlists,
