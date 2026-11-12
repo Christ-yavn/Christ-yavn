@@ -1,22 +1,21 @@
+<!-- ========================================================================================== -->
+<!--                                   HEADER & IDENTITÉ                                       -->
+<!-- ========================================================================================== -->
 <div align="center">
 
-# Hi 👋, I'm Christ Yvan YAO
+# Hi 👋, I'm YAO Christ Yvan
 
-### 🎓 L1 MIAGE @ UFHB (Côte d'Ivoire) • 💻 Développeur Backend & IA • 📈 Quantitative & Algorithmic Trading
-
-<p align="center">
-  <i>Passionné par l'<b>Intelligence Artificielle</b>, l'<b>automatisation de systèmes complexes</b> et le <b>trading quantitatif & algorithmique</b>.<br/>Je conçois des solutions logicielles performantes, des architectures backend fiables et des modèles mathématiques de marché.</i>
-</p>
+### 🎓 L1 MIAGE @ UFHB (Côte d'Ivoire) • 💻 Développeur Backend & IA • 📈 Trading Quantitatif & Algorithmique
 
 <p align="center">
   <a href="https://christ-yvan-portfolio.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/%F0%9F%8C%90_Portfolio_en_Ligne-08101d?style=for-the-badge&logo=vercel&logoColor=1d8cf8" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/%F0%9F%8C%90_Visiter_Mon_Portfolio-08101d?style=for-the-badge&logo=vercel&logoColor=1d8cf8" alt="Portfolio" />
   </a>
-  &nbsp;
+  &nbsp;&nbsp;
   <a href="https://christ-yvan-portfolio.vercel.app/fichiers/CV_Christ_Yvan_YAO.html" target="_blank">
     <img src="https://img.shields.io/badge/%F0%9F%93%84_Consulter_Mon_CV-1d8cf8?style=for-the-badge&logo=googledocs&logoColor=white" alt="CV" />
   </a>
-  &nbsp;
+  &nbsp;&nbsp;
   <img src="https://komarev.com/ghpvc/?username=Christ-yavn&label=Profile%20Views&color=1d8cf8&style=for-the-badge" alt="Profile Views" />
 </p>
 
@@ -24,9 +23,27 @@
 
 ---
 
-### 💻 Tech Stack & Outils
+<!-- ========================================================================================== -->
+<!--                                   À PROPOS & VISION                                        -->
+<!-- ========================================================================================== -->
+### 🌟 À Propos & Vision
+
+> Je suis **YAO Christ Yvan**, étudiant en Licence 1 MIAGE (*Méthodes Informatiques Appliquées à la Gestion des Entreprises*) à l'Université Félix Houphouët-Boigny d'Abidjan.
+>
+> Mon profil est guidé par une double vocation technique rigoureuse :
+>
+> - 🤖 **Intelligence Artificielle, Automatisation & Ingénierie Backend** : Conception d'architectures logicielles performantes, développement d'APIs résilientes et orchestration de workflows autonomes basés sur les agents IA (Python, Django, FastAPI, Claude Code CLI, Agent OS).
+> - 📈 **Trading Quantitatif & Modélisation Algorithmique** : Développement d'automates de trading et Expert Advisors en MQL5 sur MetaTrader 5, exploitation des concepts institutionnels SMC / ICT (Order Blocks, Fair Value Gaps, liquidités) et modélisation probabiliste de marché.
+
+---
+
+<!-- ========================================================================================== -->
+<!--                                      TECH STACK                                            -->
+<!-- ========================================================================================== -->
+### 💻 Tech Stack & Écosystème
 
 #### 🚀 Langages & Backend Web
+<!-- Stack logicielle de référence pour le backend, les bases de données et les environnements système -->
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=python,django,fastapi,postgres,mysql,sqlite,js,ts,react,tailwind,java,git,github,vscode,linux&perline=8" alt="Tech Stack" />
@@ -34,6 +51,7 @@
 </p>
 
 #### 📈 Finance Quantitative & Trading Algorithmique
+<!-- Analyse technique institutionnelle (SMC/ICT), automates MQL5 & charting professionnel -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/Christ-yavn/Christ-yavn/main/icons/mql5.svg" width="48" height="48" alt="MQL5" title="MQL5 (Algorithmic Trading & Expert Advisors)" />
   &nbsp;&nbsp;&nbsp;
@@ -41,8 +59,16 @@
   &nbsp;&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/Christ-yavn/Christ-yavn/main/icons/tradingview.svg" width="48" height="48" alt="TradingView" title="TradingView Financial Charting" />
 </p>
+<p align="center">
+  <img src="https://img.shields.io/badge/MQL5-Algorithmic_Trading-0078D7?style=for-the-badge" alt="MQL5" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/METATRADER_5-Platform-005696?style=for-the-badge" alt="MetaTrader 5" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/TRADINGVIEW-Charting-2962FF?style=for-the-badge&logo=tradingview&logoColor=white" alt="TradingView" />
+</p>
 
 #### 🤖 Assistants IA & Agent OS
+<!-- Outils d'ingénierie assistée par IA et agents d'automatisation utilisés au quotidien -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/Christ-yavn/Christ-yavn/main/icons/claude.svg" width="48" height="48" alt="Claude Code" title="Anthropic Claude Code CLI" />
   &nbsp;&nbsp;&nbsp;
@@ -52,9 +78,21 @@
   &nbsp;&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/Christ-yavn/Christ-yavn/main/icons/kimi.svg" width="48" height="48" alt="Kimi AI" title="Moonshot Kimi AI" />
 </p>
+<p align="center">
+  <img src="https://img.shields.io/badge/CLAUDE_CODE-CLI_Agent-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude Code" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/ANTIGRAVITY-Agent_OS-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google Antigravity" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/GEMINI_2.0-Multimodal_AI-8E75C4?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Google Gemini" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/KIMI_AI-Moonshot_LLM-7B2CBF?style=for-the-badge" alt="Kimi AI" />
+</p>
 
 ---
 
+<!-- ========================================================================================== -->
+<!--                                   GITHUB ANALYTICS                                         -->
+<!-- ========================================================================================== -->
 ### 📊 GitHub Analytics
 
 <p align="center">
@@ -68,6 +106,9 @@
 
 ---
 
+<!-- ========================================================================================== -->
+<!--                               HACKATHONS & DISTINCTIONS                                    -->
+<!-- ========================================================================================== -->
 ### 🏆 Hackathons & Distinctions
 
 - 🥇 **1ère Place — Hackathon MIAGE (Université Félix Houphouët-Boigny)** : Projet *Smart Presence QR* (solution de pointage dynamique par QR code sécurisé pour amphithéâtres).
@@ -77,6 +118,9 @@
 
 ---
 
+<!-- ========================================================================================== -->
+<!--                                   PROJETS PHARES                                           -->
+<!-- ========================================================================================== -->
 ### 🚀 Projets Phares
 
 | Projet | Description | Technologies Clés |
@@ -88,6 +132,9 @@
 
 ---
 
+<!-- ========================================================================================== -->
+<!--                                        QUOTE                                               -->
+<!-- ========================================================================================== -->
 ### 💡 Philosophie de Développeur & Trader Quantitatif
 
 <p align="center">
@@ -95,5 +142,5 @@
 </p>
 
 <p align="center">
-  <sub>⚡ Développé avec passion par <b>Christ Yvan YAO</b> • Étudiant en Licence 1 MIAGE à l'UFHB Abidjan</sub>
+  <sub>⚡ Développé avec passion par <b>YAO Christ Yvan</b> • Étudiant en Licence 1 MIAGE à l'UFHB Abidjan</sub>
 </p>
