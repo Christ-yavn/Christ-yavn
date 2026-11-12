@@ -7,18 +7,6 @@
 
 ### 🎓 L1 MIAGE @ UFHB (Côte d'Ivoire) • 💻 Développeur Backend & IA • 📈 Trading Quantitatif & Algorithmique
 
-<p align="center">
-  <a href="https://christ-yvan-portfolio.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/%F0%9F%8C%90_Visiter_Mon_Portfolio-08101d?style=for-the-badge&logo=vercel&logoColor=1d8cf8" alt="Portfolio" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://christ-yvan-portfolio.vercel.app/fichiers/CV_Christ_Yvan_YAO.html" target="_blank">
-    <img src="https://img.shields.io/badge/%F0%9F%93%84_Consulter_Mon_CV-1d8cf8?style=for-the-badge&logo=googledocs&logoColor=white" alt="CV" />
-  </a>
-  &nbsp;&nbsp;
-  <img src="https://komarev.com/ghpvc/?username=Christ-yavn&label=Profile%20Views&color=1d8cf8&style=for-the-badge" alt="Profile Views" />
-</p>
-
 </div>
 
 ---
