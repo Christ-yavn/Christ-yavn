@@ -75,20 +75,20 @@
 ### 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Christ-yavn&show_icons=true&theme=tokyonight&hide_border=true&bg_color=08101d&title_color=1d8cf8&icon_color=4da3ff&text_color=94a3b8" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Christ-yavn&theme=tokyonight&hide_border=true&background=08101d&ring=1d8cf8&fire=1d8cf8&currStreakLabel=4da3ff" alt="GitHub Streak" width="48%" />
+  <img src="https://github-stats-extended.vercel.app/api?username=Christ-yavn&show_icons=true&theme=tokyonight&hide_border=true&bg_color=08101d&title_color=1d8cf8&icon_color=4da3ff&text_color=94a3b8" alt="GitHub Stats" width="48%" />
+  <img src="https://streak-stats.demolab.com?user=Christ-yavn&theme=tokyonight&hide_border=true&background=08101d&ring=1d8cf8&fire=1d8cf8&currStreakLabel=4da3ff" alt="GitHub Streak" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Christ-yavn&layout=compact&theme=tokyonight&hide_border=true&bg_color=08101d&title_color=1d8cf8&text_color=94a3b8" alt="Top Languages" width="60%" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Christ-yavn&layout=compact&theme=tokyonight&hide_border=true&bg_color=08101d&title_color=1d8cf8&text_color=94a3b8" alt="Top Languages" width="60%" />
 </p>
 
 ---
 
-### 📈 Graphique d'Activité de Contribution
+### 📈 Graphique d'Activité & Contributions
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Christ-yavn&theme=react-dark&bg_color=08101d&color=1d8cf8&line=4da3ff&point=ffffff&hide_border=true" width="100%" alt="Contribution Graph" />
+  <img src="https://ghchart.rshah.org/1d8cf8/Christ-yavn" width="100%" alt="Contributions Heatmap - Christ Yvan" />
 </p>
 
 ---
