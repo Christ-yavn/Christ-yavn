@@ -1,27 +1,57 @@
 <!-- ========================================================================================== -->
-<!--                                   HEADER & IDENTITÉ                                       -->
+<!--                                   HEADER & BANNER                                         -->
 <!-- ========================================================================================== -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Christ-yavn/Christ-yavn/main/assets/banner.jpg" width="100%" alt="YAO Christ Yvan - Quantitative Trading & Software Engineering Workstation" />
+</p>
+
 <div align="center">
 
-# Hi 👋, I'm YAO Christ Yvan
+# ⚡ YAO Christ Yvan
 
-### 🎓 L1 MIAGE @ UFHB (Côte d'Ivoire) • 💻 Développeur Backend & IA • 📈 Trading Quantitatif & Algorithmique
+### `Backend Developer` &nbsp;•&nbsp; `Quantitative Trading` &nbsp;•&nbsp; `AI Systems`
+
+<p align="center">
+  🎓 <b>Licence 1 MIAGE — Université Félix Houphouët-Boigny</b> &nbsp;|&nbsp; 📍 <b>Abidjan, Côte d'Ivoire</b>
+</p>
 
 </div>
 
 ---
 
 <!-- ========================================================================================== -->
-<!--                                   À PROPOS & VISION                                        -->
+<!--                                   PROFIL & EXPERTISE                                       -->
 <!-- ========================================================================================== -->
+<p align="center">
+  Étudiant en <b>MIAGE</b> à l'Université Félix Houphouët-Boigny, je combine la rigueur analytique des mathématiques financières et l'ingénierie logicielle moderne pour concevoir des architectures logicielles résilientes, des agents autonomes et des modèles de trading algorithmiques.
+</p>
 
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h4 align="center">🤖 Intelligence Artificielle & Backend</h4>
+      <p align="center"><sub>Architectures logicielles & agents autonomes</sub></p>
+      <ul>
+        <li><b>Ingénierie Backend :</b> Développement d'APIs performantes et modulaires en Python (Django, FastAPI).</li>
+        <li><b>Workflows Intelligents :</b> Intégration d'agents autonomes et automatisation avancée (Agent OS, Claude Code CLI).</li>
+        <li><b>Rigueur Logicielle :</b> Traçabilité, code propre et pipelines de données résilients.</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h4 align="center">📈 Finance Quantitative & Trading</h4>
+      <p align="center"><sub>Trading algorithmique & analyse institutionnelle</sub></p>
+      <ul>
+        <li><b>Trading Algorithmique :</b> Développement et déploiement d'Expert Advisors en <b>MQL5</b> sur <b>MetaTrader 5</b>.</li>
+        <li><b>Structures de Marché :</b> Exploitation des flux institutionnels (Smart Money Concepts / ICT, Order Blocks, FVG).</li>
+        <li><b>Recherche Quantitative :</b> Backtests sans biais de lookahead et analyse statistique des dynamiques de prix.</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
-> Je suis **YAO Christ Yvan**, étudiant en Licence 1 MIAGE (*Méthodes Informatiques Appliquées à la Gestion des Entreprises*) à l'Université Félix Houphouët-Boigny d'Abidjan.
->
-
->
-> - 🤖 **Intelligence Artificielle, Automatisation & Ingénierie Backend** : Conception d'architectures logicielles performantes, développement d'APIs résilientes et orchestration de workflows autonomes basés sur les agents IA (Python, Django, FastAPI, Claude Code CLI, Agent OS).
-> - 📈 **Trading Quantitatif & Modélisation Algorithmique** : Développement d'automates de trading et Expert Advisors en MQL5 sur MetaTrader 5, exploitation des concepts institutionnels SMC / ICT (Order Blocks, Fair Value Gaps, liquidités) et modélisation probabiliste de marché.
+<p align="center">
+  <i>« L'alliance entre la rigueur mathématique des flux de marché et l'élégance d'une ingénierie logicielle durable. »</i>
+</p>
 
 ---
 
@@ -31,7 +61,7 @@
 ### 💻 Tech Stack & Écosystème
 
 #### 🚀 Langages & Backend Web
-<!-- Stack logicielle de référence pour le backend, les bases de données et les environnements système -->
+<!-- Stack de référence pour le backend, les bases de données et les environnements système -->
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=python,django,fastapi,postgres,mysql,sqlite,js,ts,react,tailwind,java,git,github,vscode,linux&perline=8" alt="Tech Stack" />
@@ -55,12 +85,12 @@
   <img src="https://img.shields.io/badge/TRADINGVIEW-Charting-2962FF?style=for-the-badge&logo=tradingview&logoColor=white" alt="TradingView" />
 </p>
 
-#### 🤖 Assistants IA 
+#### 🤖 Assistants IA
 <!-- Outils d'ingénierie assistée par IA et agents d'automatisation utilisés au quotidien -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/Christ-yavn/Christ-yavn/main/icons/claude.svg" width="48" height="48" alt="Claude Code" title="Anthropic Claude Code CLI" />
   &nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/Christ-yavn/Christ-yavn/main/icons/antigravity.svg" width="48" height="48" alt="Google Antigravity" title="Google Antigravity  />
+  <img src="https://raw.githubusercontent.com/Christ-yavn/Christ-yavn/main/icons/antigravity.svg" width="48" height="48" alt="Google Antigravity" title="Google Antigravity (Agent OS)" />
   &nbsp;&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/Christ-yavn/Christ-yavn/main/icons/gemini.svg" width="48" height="48" alt="Google Gemini 2.0" title="Google Gemini 2.0 Multimodal" />
   &nbsp;&nbsp;&nbsp;
@@ -71,7 +101,7 @@
   &nbsp;
   <img src="https://img.shields.io/badge/ANTIGRAVITY-Agent_OS-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google Antigravity" />
   &nbsp;
-  <img src="https://img.shields.io/badge/GEMINI_2.0-Multimodal_AI-8E75C4?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Google Gemini" />
+  <img src="https://img.shields.io/badge/GEMINI_2.0-Multimodal_AI-8E75B4?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Google Gemini" />
   &nbsp;
   <img src="https://img.shields.io/badge/KIMI_AI-Moonshot_LLM-7B2CBF?style=for-the-badge" alt="Kimi AI" />
 </p>
