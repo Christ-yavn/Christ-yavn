@@ -14,7 +14,7 @@
 <!-- ========================================================================================== -->
 <!--                                   À PROPOS & VISION                                        -->
 <!-- ========================================================================================== -->
-### 🌟 À Propos & Vision
+
 
 > Je suis **YAO Christ Yvan**, étudiant en Licence 1 MIAGE (*Méthodes Informatiques Appliquées à la Gestion des Entreprises*) à l'Université Félix Houphouët-Boigny d'Abidjan.
 >
