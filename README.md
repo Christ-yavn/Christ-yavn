@@ -55,12 +55,12 @@
   <img src="https://img.shields.io/badge/TRADINGVIEW-Charting-2962FF?style=for-the-badge&logo=tradingview&logoColor=white" alt="TradingView" />
 </p>
 
-#### 🤖 Assistants IA & Agent OS
+#### 🤖 Assistants IA & 
 <!-- Outils d'ingénierie assistée par IA et agents d'automatisation utilisés au quotidien -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/Christ-yavn/Christ-yavn/main/icons/claude.svg" width="48" height="48" alt="Claude Code" title="Anthropic Claude Code CLI" />
   &nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/Christ-yavn/Christ-yavn/main/icons/antigravity.svg" width="48" height="48" alt="Google Antigravity" title="Google Antigravity (Agent OS)" />
+  <img src="https://raw.githubusercontent.com/Christ-yavn/Christ-yavn/main/icons/antigravity.svg" width="48" height="48" alt="Google Antigravity" title="Google Antigravity  />
   &nbsp;&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/Christ-yavn/Christ-yavn/main/icons/gemini.svg" width="48" height="48" alt="Google Gemini 2.0" title="Google Gemini 2.0 Multimodal" />
   &nbsp;&nbsp;&nbsp;
