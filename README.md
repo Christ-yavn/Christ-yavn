@@ -5,37 +5,10 @@
 ### 🎓 L1 MIAGE @ UFHB (Côte d'Ivoire) • 💻 Backend Developer • 📈 Quantitative & Algorithmic Trading
 
 <p align="center">
-  <a href="https://christ-yvan-portfolio.vercel.app">
-    <img src="https://img.shields.io/badge/🌐_Visiter_Mon_Portfolio_en_Ligne-1d8cf8?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Portfolio" />
-  </a>
-</p>
-
-<p align="center">
   <img src="https://komarev.com/ghpvc/?username=Christ-yavn&label=Profile%20Views&color=1d8cf8&style=flat-square" alt="Profile Views" />
 </p>
 
 </div>
-
----
-
-### 🌐 Connect with Me
-<p align="center">
-  <a href="https://www.linkedin.com/in/christ-yvan-yao-71b66539a" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://github.com/Christ-yavn" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="mailto:yaochristyvan8@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-  <a href="https://wa.me/2250508748810" target="_blank">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
-  </a>
-  <a href="https://christ-yvan-portfolio.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-08101d?style=for-the-badge&logo=vercel&logoColor=1d8cf8" alt="Portfolio" />
-  </a>
-</p>
 
 ---
 
@@ -48,26 +21,24 @@
   </a>
 </p>
 
-#### 📈 Finance Quantitative, Trading & Data Science
+#### 📈 Finance Quantitative & Trading
 <p align="center">
-  <img src="https://img.shields.io/badge/MQL5-MetaTrader_5-0078D7?style=for-the-badge&logo=windows&logoColor=white" alt="MQL5" />
-  <img src="https://img.shields.io/badge/TradingView-PineScript-black?style=for-the-badge&logo=tradingview&logoColor=white" alt="TradingView" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
-  <img src="https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white" alt="SciPy" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit" />
-  <img src="https://img.shields.io/badge/DataCamp-Donates_Scholar-03EF62?style=for-the-badge&logo=datacamp&logoColor=black" alt="DataCamp" />
+  <img src="https://raw.githubusercontent.com/Christ-yavn/Christ-yavn/main/icons/mql5.svg" width="48" height="48" alt="MQL5" title="MQL5 (Algorithmic Trading & Expert Advisors)" />
+  &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/Christ-yavn/Christ-yavn/main/icons/metatrader5.svg" width="48" height="48" alt="MetaTrader 5" title="MetaTrader 5 Platform" />
+  &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/Christ-yavn/Christ-yavn/main/icons/tradingview.svg" width="48" height="48" alt="TradingView" title="TradingView Financial Charting" />
 </p>
 
-#### 🤖 Outils & Assistants IA au Quotidien
+#### 🤖 Assistants IA & Agent OS
 <p align="center">
-  <img src="https://img.shields.io/badge/Claude_Code-CLI-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude Code" />
-  <img src="https://img.shields.io/badge/Google_Antigravity-Agent_OS-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Antigravity" />
-  <img src="https://img.shields.io/badge/Google_Gemini-2.0-8E75C4?style=for-the-badge&logo=google&logoColor=white" alt="Gemini" />
-  <img src="https://img.shields.io/badge/Perplexity_AI-Search-1FB8CD?style=for-the-badge&logo=perplexity&logoColor=white" alt="Perplexity" />
-  <img src="https://img.shields.io/badge/Kimi_AI-Moonshot-7B2CBF?style=for-the-badge" alt="Kimi" />
-  <img src="https://img.shields.io/badge/GitHub_Copilot-AI_Pair-000000?style=for-the-badge&logo=githubcopilot&logoColor=white" alt="Copilot" />
+  <img src="https://raw.githubusercontent.com/Christ-yavn/Christ-yavn/main/icons/claude.svg" width="48" height="48" alt="Claude Code" title="Anthropic Claude Code CLI" />
+  &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/Christ-yavn/Christ-yavn/main/icons/antigravity.svg" width="48" height="48" alt="Google Antigravity" title="Google Antigravity (Agent OS)" />
+  &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/Christ-yavn/Christ-yavn/main/icons/gemini.svg" width="48" height="48" alt="Google Gemini 2.0" title="Google Gemini 2.0 Multimodal" />
+  &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/Christ-yavn/Christ-yavn/main/icons/kimi.svg" width="48" height="48" alt="Kimi AI" title="Moonshot Kimi AI" />
 </p>
 
 ---
@@ -81,14 +52,6 @@
 
 <p align="center">
   <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Christ-yavn&layout=compact&theme=tokyonight&hide_border=true&bg_color=08101d&title_color=1d8cf8&text_color=94a3b8" alt="Top Languages" width="60%" />
-</p>
-
----
-
-### 📈 Graphique d'Activité & Contributions
-
-<p align="center">
-  <img src="https://ghchart.rshah.org/1d8cf8/Christ-yavn" width="100%" alt="Contributions Heatmap - Christ Yvan" />
 </p>
 
 ---
