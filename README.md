@@ -18,7 +18,7 @@
 
 > Je suis **YAO Christ Yvan**, étudiant en Licence 1 MIAGE (*Méthodes Informatiques Appliquées à la Gestion des Entreprises*) à l'Université Félix Houphouët-Boigny d'Abidjan.
 >
-> Mon profil est guidé par une double vocation technique rigoureuse :
+
 >
 > - 🤖 **Intelligence Artificielle, Automatisation & Ingénierie Backend** : Conception d'architectures logicielles performantes, développement d'APIs résilientes et orchestration de workflows autonomes basés sur les agents IA (Python, Django, FastAPI, Claude Code CLI, Agent OS).
 > - 📈 **Trading Quantitatif & Modélisation Algorithmique** : Développement d'automates de trading et Expert Advisors en MQL5 sur MetaTrader 5, exploitation des concepts institutionnels SMC / ICT (Order Blocks, Fair Value Gaps, liquidités) et modélisation probabiliste de marché.
