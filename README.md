@@ -55,7 +55,7 @@
   <img src="https://img.shields.io/badge/TRADINGVIEW-Charting-2962FF?style=for-the-badge&logo=tradingview&logoColor=white" alt="TradingView" />
 </p>
 
-#### 🤖 Assistants IA & 
+#### 🤖 Assistants IA 
 <!-- Outils d'ingénierie assistée par IA et agents d'automatisation utilisés au quotidien -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/Christ-yavn/Christ-yavn/main/icons/claude.svg" width="48" height="48" alt="Claude Code" title="Anthropic Claude Code CLI" />
