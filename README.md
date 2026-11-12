@@ -1,8 +1,8 @@
 <!-- ========================================================================================== -->
-<!--                                   HEADER & BANNER                                         -->
+<!--                                   HEADER BANNER                                           -->
 <!-- ========================================================================================== -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Christ-yavn/Christ-yavn/main/assets/banner.jpg" width="100%" alt="YAO Christ Yvan - Quantitative Trading & Software Engineering Workstation" />
+  <img src="https://raw.githubusercontent.com/Christ-yavn/Christ-yavn/main/assets/banner.jpg" width="100%" alt="Welcome to Christ Yvan's Github" />
 </p>
 
 <div align="center">
@@ -11,57 +11,41 @@
 
 ### `Backend Developer` &nbsp;•&nbsp; `Quantitative Trading` &nbsp;•&nbsp; `AI Systems`
 
-<p align="center">
-  🎓 <b>Licence 1 MIAGE — Université Félix Houphouët-Boigny</b> &nbsp;|&nbsp; 📍 <b>Abidjan, Côte d'Ivoire</b>
-</p>
-
 </div>
 
 ---
 
 <!-- ========================================================================================== -->
-<!--                                   PROFIL & EXPERTISE                                       -->
+<!--                                      ABOUT ME                                              -->
 <!-- ========================================================================================== -->
-<p align="center">
-  Étudiant en <b>MIAGE</b> à l'Université Félix Houphouët-Boigny, je combine la rigueur analytique des mathématiques financières et l'ingénierie logicielle moderne pour concevoir des architectures logicielles résilientes, des agents autonomes et des modèles de trading algorithmiques.
+<h2 align="center"> <em>🧑‍💻 About Me</em> </h2>
+
+<img src="https://raw.githubusercontent.com/Christ-yavn/Christ-yavn/main/assets/about-preview.jpg" width="310" align="right" style="border-radius: 12px; margin-left: 20px; margin-bottom: 15px;" alt="Coding & Quantitative Trading Workstation" />
+
+<p>
+  Bonjour ! <em><b>Je suis Christ Yvan YAO</b></em>, étudiant de 19 ans en Licence 1 MIAGE à l'Université Félix Houphouët-Boigny d'Abidjan. Passionné par l'ingénierie logicielle et les marchés financiers, je conçois des systèmes backend performants et des algorithmes de trading quantitatif en Python et MQL5. J'aime résoudre des problèmes concrets et bâtir des projets innovants.
 </p>
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h4 align="center">🤖 Intelligence Artificielle & Backend</h4>
-      <p align="center"><sub>Architectures logicielles & agents autonomes</sub></p>
-      <ul>
-        <li><b>Ingénierie Backend :</b> Développement d'APIs performantes et modulaires en Python (Django, FastAPI).</li>
-        <li><b>Workflows Intelligents :</b> Intégration d'agents autonomes et automatisation avancée (Agent OS, Claude Code CLI).</li>
-        <li><b>Rigueur Logicielle :</b> Traçabilité, code propre et pipelines de données résilients.</li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-      <h4 align="center">📈 Finance Quantitative & Trading</h4>
-      <p align="center"><sub>Trading algorithmique & analyse institutionnelle</sub></p>
-      <ul>
-        <li><b>Trading Algorithmique :</b> Développement et déploiement d'Expert Advisors en <b>MQL5</b> sur <b>MetaTrader 5</b>.</li>
-        <li><b>Structures de Marché :</b> Exploitation des flux institutionnels (Smart Money Concepts / ICT, Order Blocks, FVG).</li>
-        <li><b>Recherche Quantitative :</b> Backtests sans biais de lookahead et analyse statistique des dynamiques de prix.</li>
-      </ul>
-    </td>
-  </tr>
-</table>
+<br/>
 
 <p align="center">
-  <i>« L'alliance entre la rigueur mathématique des flux de marché et l'élégance d'une ingénierie logicielle durable. »</i>
+  🏛️ &nbsp;<em><b>Étudiant en L1 MIAGE à l'Université Félix Houphouët-Boigny (UFHB)</b></em><br/>
+  🥇 &nbsp;<em><b>1ère Place — Hackathon Universitaire MIAGE (Smart Presence QR)</b></em><br/>
+  🏅 &nbsp;<em><b>4e Prix — VIBEATHON Côte d'Ivoire 2026 (EcoLoop CI)</b></em><br/>
+  📈 &nbsp;<em><b>Développeur de Bots Quant & Expert Advisors en Python & MQL5 (MetaTrader 5)</b></em><br/>
+  🎓 &nbsp;<em><b>Boursier DataCamp Donates × iSHEERO (Machine Learning & Data Science)</b></em><br/>
 </p>
+
+<br clear="right"/>
 
 ---
 
 <!-- ========================================================================================== -->
 <!--                                      TECH STACK                                            -->
 <!-- ========================================================================================== -->
-### 💻 Tech Stack & Écosystème
+### 💻 Technologies & Outils
 
 #### 🚀 Langages & Backend Web
-<!-- Stack de référence pour le backend, les bases de données et les environnements système -->
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=python,django,fastapi,postgres,mysql,sqlite,js,ts,react,tailwind,java,git,github,vscode,linux&perline=8" alt="Tech Stack" />
@@ -69,7 +53,6 @@
 </p>
 
 #### 📈 Finance Quantitative & Trading Algorithmique
-<!-- Analyse technique institutionnelle (SMC/ICT), automates MQL5 & charting professionnel -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/Christ-yavn/Christ-yavn/main/icons/mql5.svg" width="48" height="48" alt="MQL5" title="MQL5 (Algorithmic Trading & Expert Advisors)" />
   &nbsp;&nbsp;&nbsp;
@@ -86,7 +69,6 @@
 </p>
 
 #### 🤖 Assistants IA
-<!-- Outils d'ingénierie assistée par IA et agents d'automatisation utilisés au quotidien -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/Christ-yavn/Christ-yavn/main/icons/claude.svg" width="48" height="48" alt="Claude Code" title="Anthropic Claude Code CLI" />
   &nbsp;&nbsp;&nbsp;
@@ -153,7 +135,7 @@
 <!-- ========================================================================================== -->
 <!--                                        QUOTE                                               -->
 <!-- ========================================================================================== -->
-### 💡 Philosophie de Développeur & Trader Quantitatif
+### 💡 Dev & Quant Quote
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
