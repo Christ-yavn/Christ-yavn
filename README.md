@@ -1,84 +1,124 @@
-# Hi, I'm Christ Yvan (`@Christ-yavn`)
+<div align="center">
 
-### L1 MIAGE Student (Côte d'Ivoire) • Open-Source AI & Software Engineer
+# Hi 👋, I'm Christ Yvan YAO
 
-[![Location: Côte d'Ivoire](https://img.shields.io/badge/Location-C%C3%B4te%20d'Ivoire-orange)](https://github.com/Christ-yavn)
-[![University: Licence 1 MIAGE](https://img.shields.io/badge/Academic%20Track-Licence%201%20MIAGE-blue)](https://github.com/Christ-yavn)
-[![Claude Code Ecosystem](https://img.shields.io/badge/Anthropic-Claude%20Code%20Open%20Source-D97757)](https://github.com/Christ-yavn/youtube-video-extractor)
-[![CI Status: Passing](https://img.shields.io/badge/GitHub%20Actions%20CI-100%25%20Passing-brightgreen)](https://github.com/Christ-yavn/youtube-video-extractor/actions)
+### 🎓 L1 MIAGE @ UFHB (Côte d'Ivoire) • 💻 Backend Developer • 📈 Quantitative & Algorithmic Trading
 
----
+<p align="center">
+  <a href="https://christ-yvan-portfolio.vercel.app">
+    <img src="https://img.shields.io/badge/🌐_Visiter_Mon_Portfolio_en_Ligne-1d8cf8?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Portfolio" />
+  </a>
+</p>
 
-## About Me
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Christ-yavn&label=Profile%20Views&color=1d8cf8&style=flat-square" alt="Profile Views" />
+</p>
 
-I am a first-year undergraduate student in **MIAGE (*Licence 1 — Méthodes Informatiques Appliquées à la Gestion des Entreprises*, Computer Science & Applied Information Systems)** in **Côte d'Ivoire**.
-
-For students and self-taught developers in West Africa and around the world, two things make all the difference:
-1. **Turning unstructured online videos into structured, verifiable knowledge**: YouTube is the world's largest free university, yet thousands of hours of lectures in computer science, mathematics, and quantitative engineering are locked inside long video streams without textbooks, formal definitions, or testable code.
-2. **Preventing AI hallucinations in technical & scientific work**: When developers use AI coding assistants to turn lectures or research papers into software and quantitative models, they need deterministic linters and statistical verification tools so the code they build actually works in reality.
-
-That is why I design and maintain open-source tools built specifically around **Anthropic's Claude and Claude Code**.
+</div>
 
 ---
 
-## Flagship Open-Source Projects
-
-### 1. [`Christ-yavn/youtube-video-extractor`](https://github.com/Christ-yavn/youtube-video-extractor) — **YouTube Video Extractor (`v4.0.0`)**
-*Universal Video-to-Course, Formal Specification, `.jsonl` AI Dataset & Code Compiler (`MIT License`)*
-
-Instead of generating short, vague transcript summaries, **YouTube Video Extractor** is a full-stack application (React 19, TypeScript, Express, Python CLI) that turns **any educational YouTube video, university playlist, or technical channel** into structured study material and working software:
-
-- **Works Across 4 Universal Domains (`src/utils/domainProfiles.ts`)**:
-  1. `UNIVERSAL_COURSE_COMPILER`: University courses (MIAGE, CS, Business), MOOCs, and general tutorials.
-  2. `SOFTWARE_AND_ALGORITHMS`: Programming tutorials, distributed systems, and AI engineering talks.
-  3. `STEM_AND_QUANT_SCIENCE`: Mathematics, probability, physics, and econometrics lectures.
-  4. `MARKET_MICROSTRUCTURE_ICT`: Financial market microstructure and algorithmic trading lectures.
-- **How It Works Step by Step**:
-  - **Automatic 35-Minute Slicing (`calculateSlices`)**: Long lectures (`> 35 minutes`) are automatically segmented into sequential 35-minute windows so multimodal extraction never loses detail in the middle of a 2-hour video.
-  - **Dual-Layer Output (Human Course + Machine Spec)**: Every video produces **Part A** (an **8-section study handbook** with visual explanations anchored to exact `[MM:SS]` timestamps, worked examples, checklists, and flashcards) and **Part B** (formal parameters `[P-xx]`, boolean rules `[R-xx]`, Dual Finite State Machines, and 3 executable JSON test cases).
-  - **10-Criteria Deterministic Linter (`lintFicheV3`, 38/38 Unit Tests)**: Automatically rejects vague placeholders (`TODO`, `TBD`), checks timestamp bounds against real video duration, and triggers surgical auto-repair before any sheet is validated.
-  - **Cross-Video Consolidation & `.jsonl` Export**: Merges dozens of videos from the same channel into cohesive **`MASTER_<CONCEPT>.md`** textbook chapters and exports verified **`.jsonl` datasets** for RAG and LLM fine-tuning.
-  - **Native Claude Code Compiler Bridge (`scripts/claude_agent_bridge.py` & Web UI)**: Connects directly to Anthropic's Claude (`ANTHROPIC_API_KEY` or `claude -p` CLI) to compile validated specifications into **6 targets**: University Course Handbooks, `.jsonl` Datasets, TypeScript modules, Python 3.11+ engines, PineScript v5/v6, and Red-Team Audits.
-  - **100% Local Mode + Bring Your Own Keys (BYOK) + Benchmark Test #1**: Runs out of the box on any computer with zero cloud setup required, includes a local key vault for `GEMINI_API_KEY`, `ANTHROPIC_API_KEY`, and personal Google Drive OAuth, and ships with **Benchmark Test #1** (a real-world stress test on 106 technical videos, with the `10/10` reference specification `dg2-OsUXN60` preloaded for 1-click testing).
-
----
-
-### 2. [`Christ-yavn/quant-pod`](https://github.com/Christ-yavn/quant-pod) — **Quant Pod (`v3.0.0`)**
-*Autonomous Multi-Agent Quantitative Research Skill (`SKILL.md`) & 10 Pure-Python Scientific Verification Engines for Claude Code (`MIT License`)*
-
-When a developer or student extracts a quantitative lecture or algorithm (for instance using `youtube-video-extractor`) and asks an AI agent to backtest it, most backtests fail in real life due to *p-hacking* (testing 100 variations and keeping the lucky winner), *look-ahead bias* (accidentally peeking at future data), or ignoring real transaction costs.
-
-**`quant-pod`** solves this for daily **Claude Code** users through two components:
-1. **A 2-Level Multi-Agent Skill (`quant-pod/SKILL.md`, `agent-quant-pod/SKILL.md`)**: Separates **Hypothesis Investigation**, **Causal Coding**, and **Blind Validation** across distinct subagents so the agent writing a strategy never grades its own work.
-2. **10 Self-Tested Pure-Python Scientific Engines (`quant-pod/scripts/`, `numpy` & `scipy` only)**:
-   - **`research_integrity.py`**: Append-only SHA-256 `HashChainLedger` that records every single trial (winners and losers) and seals 20% of the data in a cryptographic holdout so trial deletion is impossible.
-   - **`event_backtester.py`**: Realistic bar-by-bar execution engine with live bid/ask spreads, post-jump slippage (`SL_GAP`), and `lookahead_truncation_test()` to catch any signal that changes when future bars are removed.
-   - **`quant_discovery_engine.py`**: Checks formula originality using Abstract Syntax Trees (`ast_originality_penalty`), runs a pre-backtest Bull vs. Bear debate, and schedules experiments via a UCB1 bandit (`UCBFamilyBandit`).
-   - **`quant_inference_engine.py`, `quant_validation_engine.py`, & `null_models.py`**: Runs Hansen's SPA, Romano-Wolf StepM, Deflated Sharpe Ratio on effective independent trials ($N_{\text{eff}}$), Probability of Backtest Overfitting (PBO), $2\times$ transaction cost stress tests, and $M \ge 100$ synthetic zero-edge null simulations.
-   - **`prng_forensics.py`, `crypto_defi_engine.py`, `quant_scientific_arsenal.py`, & `deriv_quant_engine.py`**: NIST SP 800-22/90B randomness forensics, Uniswap v3 Loss-Versus-Rebalancing (LVR) & perpetual futures carry models, Marchenko-Pastur RMT + Hierarchical Risk Parity (HRP) portfolio sizing, and continuous-time Wonham Bayesian regime filters.
+### 🌐 Connect with Me
+<p align="center">
+  <a href="https://www.linkedin.com/in/christ-yvan-yao-71b66539a" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/Christ-yavn" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="mailto:yaochristyvan8@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://wa.me/2250508748810" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
+  </a>
+  <a href="https://christ-yvan-portfolio.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-08101d?style=for-the-badge&logo=vercel&logoColor=1d8cf8" alt="Portfolio" />
+  </a>
+</p>
 
 ---
 
-## Civic-Tech & Applied Software Projects
+### 💻 Tech Stack
 
-- **[`Christ-yavn/ecocycle-ci`](https://github.com/Christ-yavn/ecocycle-ci) & [`Christ-yavn/Ecoloop-ci-backend`](https://github.com/Christ-yavn/Ecoloop-ci-backend)**: Full-stack Circular Economy & Smart Waste Collection Platform built for communities in **Côte d'Ivoire** (React / TypeScript / Tailwind frontend + Python REST API & geospatial sorting backend).
-- **[`Christ-yavn/bot-quant-`](https://github.com/Christ-yavn/bot-quant-)**: Real-world empirical case study applying `quant-pod` to audit 1.68 million ticks, refute an overfitted ML model, and run a strictly causal Python / ONNX / MQL5 C++ execution pipeline.
-- **[`Christ-yavn/christ-streamlit`](https://github.com/Christ-yavn/christ-streamlit)**: Interactive Logic & Deduction Web Application built with Python and Streamlit.
+#### 🚀 Langages & Backend Web
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,django,fastapi,postgres,mysql,sqlite,js,ts,react,tailwind,java,git,github,vscode,linux&perline=8" alt="Tech Stack" />
+  </a>
+</p>
+
+#### 📈 Finance Quantitative, Trading & Data Science
+<p align="center">
+  <img src="https://img.shields.io/badge/MQL5-MetaTrader_5-0078D7?style=for-the-badge&logo=windows&logoColor=white" alt="MQL5" />
+  <img src="https://img.shields.io/badge/TradingView-PineScript-black?style=for-the-badge&logo=tradingview&logoColor=white" alt="TradingView" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white" alt="SciPy" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit" />
+  <img src="https://img.shields.io/badge/DataCamp-Donates_Scholar-03EF62?style=for-the-badge&logo=datacamp&logoColor=black" alt="DataCamp" />
+</p>
+
+#### 🤖 Outils & Assistants IA au Quotidien
+<p align="center">
+  <img src="https://img.shields.io/badge/Claude_Code-CLI-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude Code" />
+  <img src="https://img.shields.io/badge/Google_Antigravity-Agent_OS-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Antigravity" />
+  <img src="https://img.shields.io/badge/Google_Gemini-2.0-8E75C4?style=for-the-badge&logo=google&logoColor=white" alt="Gemini" />
+  <img src="https://img.shields.io/badge/Perplexity_AI-Search-1FB8CD?style=for-the-badge&logo=perplexity&logoColor=white" alt="Perplexity" />
+  <img src="https://img.shields.io/badge/Kimi_AI-Moonshot-7B2CBF?style=for-the-badge" alt="Kimi" />
+  <img src="https://img.shields.io/badge/GitHub_Copilot-AI_Pair-000000?style=for-the-badge&logo=githubcopilot&logoColor=white" alt="Copilot" />
+</p>
 
 ---
 
-## Présentation en Français
+### 📊 GitHub Analytics
 
-Bonjour ! Je m'appelle **Christ Yvan**, je suis étudiant en **Licence 1 MIAGE** (*Méthodes Informatiques Appliquées à la Gestion des Entreprises*) en **Côte d'Ivoire** et développeur open-source.
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Christ-yavn&show_icons=true&theme=tokyonight&hide_border=true&bg_color=08101d&title_color=1d8cf8&icon_color=4da3ff&text_color=94a3b8" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Christ-yavn&theme=tokyonight&hide_border=true&background=08101d&ring=1d8cf8&fire=1d8cf8&currStreakLabel=4da3ff" alt="GitHub Streak" width="48%" />
+</p>
 
-Je construis des outils open-source pour l'écosystème **Anthropic Claude & Claude Code** afin de :
-1. **Transformer n'importe quelle vidéo ou chaîne YouTube éducative en cours structurés, datasets `.jsonl` et code exécutable** grâce à [**`youtube-video-extractor` (`v4.0.0`)**](https://github.com/Christ-yavn/youtube-video-extractor) (découpage temporel par tranches de 35 minutes, cours complet en 8 sections + spécification formelle, linter déterministe à 10 critères avec 38/38 tests unitaires, consolidation en manuels `MASTER_<CONCEPT>.md`, pont de compilation Claude Code vers 6 formats, et premier test grandeur nature sur 106 vidéos techniques).
-2. **Garantir la rigueur mathématique et statistique des recherches générées par IA** grâce à [**`quant-pod` (`v3.0.0`)**](https://github.com/Christ-yavn/quant-pod), un skill multi-agents (`SKILL.md`) accompagné de 10 moteurs scientifiques en Python pur (`numpy`/`scipy`) intégrant une chaîne de hachage SHA-256 anti-triche (`HashChainLedger`), une sonde anti-lookahead par troncation et des tests économétriques de niveau institutionnel (Hansen SPA, Romano-Wolf StepM, DSR $N_{\text{eff}}$, PBO).
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Christ-yavn&layout=compact&theme=tokyonight&hide_border=true&bg_color=08101d&title_color=1d8cf8&text_color=94a3b8" alt="Top Languages" width="60%" />
+</p>
 
 ---
 
-## Technical Stack & Contact
+### 📈 Graphique d'Activité de Contribution
 
-- **Languages**: Python (3.10–3.12, NumPy, SciPy), TypeScript / JavaScript (Node.js 22 ESM, React 19, Express, Vite 8), MQL5 / C++, SQL
-- **AI & Verification**: Anthropic Claude API & Claude Code (`SKILL.md` & Compiler Bridges), Google Gemini Multimodal API, Deterministic Linters, SHA-256 Cryptographic Audit Ledgers, GitHub Actions CI
-- **Email**: `yaochristyvan8@gmail.com`
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Christ-yavn&theme=react-dark&bg_color=08101d&color=1d8cf8&line=4da3ff&point=ffffff&hide_border=true" width="100%" alt="Contribution Graph" />
+</p>
+
+---
+
+### 🏆 Hackathons & Distinctions
+
+- 🥇 **1ère Place — Hackathon MIAGE (Université Félix Houphouët-Boigny)** : Projet *Smart Presence QR* (solution de pointage dynamique par QR code pour amphithéâtres).
+- 🏅 **4e Prix — VIBEATHON Côte d'Ivoire 2026** : Équipe *VORTEXON*, Projet *EcoLoop CI* (plateforme citoyenne d'économie circulaire et gestion intelligente des déchets).
+- ⚡ **Technovor Hackathon 2026 (ESATIC)** : Participation intensive au marathon de prototypage de solutions technologiques sous contrainte de temps.
+- 🎓 **Bourse d'Excellence DataCamp Donates × iSHEERO** : Parcours certifiant en Machine Learning, Deep Learning (PyTorch) et Data Science.
+
+---
+
+### 🚀 Projets Phares Déployés
+
+| Projet | Description | Technologies Clés |
+| :--- | :--- | :--- |
+| [**EcoLoop CI**](https://github.com/Christ-yavn/ecocycle-ci) | Plateforme de collecte, traçabilité et valorisation des déchets en Côte d'Ivoire (Primé VIBEATHON). | Django, Python, React, Tailwind, Supabase |
+| [**Quant Pod**](https://github.com/Christ-yavn/quant-pod) | Skill multi-agents et 10 moteurs scientifiques en Python pur pour la recherche quantitative et les backtests sans biais. | Python 3.12, NumPy, SciPy, Claude Code |
+| [**YouTube Video Extractor**](https://github.com/Christ-yavn/youtube-video-extractor) | Compilateur universel de vidéos éducatives en cours structurés, manuels formels et datasets `.jsonl` (v4.0). | React 19, TypeScript, Python CLI, Claude API |
+| [**Bot Quant MQL5**](https://github.com/Christ-yavn/bot-quant-) | Bots de trading algorithmique Forex (Order Blocks / FVG - SMC) et indices synthétiques (Crash & Boom). | MQL5, MetaTrader 5, Python |
+
+---
+
+### 💡 Philosophie de Développeur & Trader Quantitatif
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
+</p>
+
+<p align="center">
+  <sub>⚡ Développé avec passion par <b>Christ Yvan YAO</b> • Étudiant en Licence 1 MIAGE à l'UFHB Abidjan</sub>
+</p>
